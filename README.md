@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3F5E0&height=150&section=header&text=naeuun's%20GitHub!&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=A3F5E0&height=150&section=header&text=naeuun's%20GitHub%20🍀&fontSize=50&animation=fadeIn&fontColor=FFFFFF"/>
 
-  #### Once I'ved Used!
+  ###  Once I've Used 
   ##### 🧠 Languages  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -32,5 +32,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
   ##### 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=naeuun&theme=graywhite)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=naeuun&theme=taiga)](https://git.io/streak-stats)
 </div>
