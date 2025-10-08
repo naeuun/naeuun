@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-
+ 
+  <!--
   ##### 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=naeuun&theme=taiga)](https://git.io/streak-stats)
+  -->
 </div>
